@@ -1,0 +1,165 @@
+/*color of every text. */
+* {
+	color: rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* This css centers at the middle of the screen */
+#Claim {
+	text-shadow: 2px 2px 5px #424242;
+    position: absolute;
+    color: rgb(161, 4, 4);
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 45px;
+	text-align: center;
+	background-color: #272727;
+	border-radius: 8px;
+    border: 2px solid #19e706 ;
+    height: 697px;
+    width: 510px;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.small {
+    font-size: 25px;
+    margin-top: 20px;
+	background-color: #272727;
+    overflow: scroll;
+    overflow-x: hidden;
+    display:block;
+    width: 489px;
+    height: 600px;
+    margin-left: 9px;
+    padding: 0;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 10px;
+    font-size: 38;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-left: 0px;
+    background-color: rgba(51, 51, 51, 0.712); 
+    padding-top: 1px;
+    font-size: 14px;
+   
+}
+
+h4 {
+    text-align: center;
+    padding-top: 12px;
+    font-size: 14;
+}
+
+h5 {
+    text-align: center;
+    font-size: 13;
+    padding-left: 0px;
+    background-color: #6e6e6e04;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6 {
+    text-align: center;
+    font-size: 13;
+    margin-left: 6px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.p447n2back {
+    background-color: rgb(43, 43, 43); 
+    height: 200px;
+    border-bottom: 10px;
+}
+
+.p447n2back:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.p447n2 {
+    height: 170px;
+}
+
+.p445n1back {
+    background-color: rgb(43, 43, 43); 
+    height: 200px;
+    border-bottom: 10px;
+}
+
+.p445n1back:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.p445n1 {
+    height: 170px;
+}
+
+.p949back {
+    background-color: rgb(43, 43, 43); 
+    height: 200px;
+    border-bottom: 10px;
+}
+
+.p949back:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.p949 {
+    height: 170px;
+}
+
+.p1035back {
+    background-color: rgb(43, 43, 43); 
+    height: 200px;
+    border-bottom: 10px;
+}
+
+.p1035back:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.p1035 {
+    height: 170px;
+}
+
+.p421back {
+    background-color: rgb(43, 43, 43); 
+    height: 200px;
+    border-bottom: 10px;
+}
+
+.p421back:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.p421 {
+    height: 170px;
+}
+
+
+
+
+
